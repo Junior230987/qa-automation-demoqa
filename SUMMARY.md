@@ -1,11 +1,11 @@
 # QA Automation Challenge - Summary
 
-## 🎯 Objective
+## Objective
 The objective of this project was to design and implement automated tests for the DemoQA application, focusing on real user interactions and test reliability.
 
 ---
 
-## 🧠 Approach
+## Approach
 
 The project was structured using the Page Object Model (POM) to ensure maintainability and scalability.
 
@@ -15,7 +15,7 @@ Test data was externalized using fixtures, enabling a data-driven testing approa
 
 ---
 
-## 🧪 Test Coverage
+## Test Coverage
 
 Two main scenarios were implemented:
 
@@ -24,7 +24,7 @@ Two main scenarios were implemented:
 
 ---
 
-## ⚙️ Key Decisions
+## Key Decisions
 
 - Use of Cypress for simplicity and fast execution
 - Handling of unstable elements (ads) using custom commands
@@ -32,14 +32,14 @@ Two main scenarios were implemented:
 
 ---
 
-## ⚠️ Challenges
+## Challenges
 
 - Dynamic advertisement elements interfering with interactions
 - Validation of required fields based on CSS styles
 
 ---
 
-## 🚀 Improvements
+## Improvements
 
 - CI/CD pipeline integration
 - Parallel execution
@@ -48,6 +48,6 @@ Two main scenarios were implemented:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The solution demonstrates solid test design, good coding practices, and a scalable structure for UI automation.
