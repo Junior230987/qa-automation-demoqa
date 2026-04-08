@@ -1,0 +1,22 @@
+{
+  "name": "qa-automation-demoqa",
+  "version": "1.0.0",
+  "description": "Automation challenge using Cypress and JavaScript for DemoQA",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "qa",
+    "demoqa"
+  ],
+  "author": "Junior Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

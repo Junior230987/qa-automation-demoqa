@@ -1,0 +1,10 @@
+{
+  "firstName": "Junior",
+  "lastName": "Silva",
+  "email": "junior.silva.teste@example.com",
+  "gender": "Male",
+  "mobile": "6199998888",
+  "currentAddress": "Brasília - DF",
+  "state": "NCR",
+  "city": "Delhi"
+}
